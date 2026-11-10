@@ -53,7 +53,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | Date | Publications | Stories |
 |---|---|---|
 | 2026-11-11 | Carrousel 5 documents ; Amiante Flandre ; Électricité 18 mois | Vrai ou faux électricité (Q + R) ; Sol autre parcelle ; Citerne mazout |
-| 2026-11-12 | Signe l'esprit tranquille (vague 1) | — |
+| 2026-11-12 | Signe l'esprit tranquille (vague 1) | PEB : vrai ou faux F/G (Q + R) ; Validité 10 ans ; 3 régions, échelles différentes |
 | 2026-11-13 | — | Vérifie avant de signer (vague 1) |
 | 2026-11-16 | — | PEB E/F Flandre (vague 1) |
 | 2026-11-17 | 185 m² contre 240 m² (vague 1) | — |
