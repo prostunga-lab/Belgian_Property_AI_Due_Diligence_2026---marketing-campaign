@@ -67,3 +67,9 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-25 | — | Rapport de démo (vague 1) |
 | 2026-11-26 | 3 régions (vague 1) | — |
 | 2026-12-01 | Agents et agences (vague 1) | — |
+
+## Incident et rattrapage
+
+Du 11/11 (vers midi) au 13/11, Metricool a refusé toutes les publications (« You have reached your Metricool account limit »). La limite a été levée le 13/11 au soir.
+Contenus manqués reprogrammés : story « Vérifie avant de signer » (13/11 à 23:10, publiée) ; amiante + stories sol et citerne (16/11) ; 4 stories PEB (17/11) ; électricité + 3 stories urbanisme (18/11) ; urbanisme (20/11) ; « Signe l'esprit tranquille » (21/11).
+Pour la routine : en cas d'échec Metricool, vérifier d'abord les statuts ERROR des jours précédents (getScheduledPosts sur les jours passés) et les signaler.
