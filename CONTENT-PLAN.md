@@ -56,6 +56,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-12 | Signe l'esprit tranquille (vague 1) | PEB : vrai ou faux F/G (Q + R) ; Validité 10 ans ; 3 régions, échelles différentes |
 | 2026-11-13 | Urbanisme : ce que la commune sait du bien | Vérifie avant de signer (vague 1) ; Urbanisme : vrai ou faux véranda sans permis (Q + R) ; Zone inondable / bien protégé |
 | 2026-11-14 | Carrousel « construit pour être vérifié » ; Confidentialité : ton dossier reste le tien | Vrai ou faux : l'IA décide du score (Q + R) ; Scans et photos lus (OCR) ; FR · NL · EN |
+| 2026-11-15 | Carrousel cas pratique : 5 infos qui doivent concorder ; Compare 2 ou 3 biens (pack 3 à 59 €) | Vrai ou faux : payer avant de voir (Q + R) ; 25 documents par dossier ; Échéances calculées |
 | 2026-11-16 | — | PEB E/F Flandre (vague 1) |
 | 2026-11-17 | 185 m² contre 240 m² (vague 1) | — |
 | 2026-11-18 | — | Moins de 2 min (vague 1) |
