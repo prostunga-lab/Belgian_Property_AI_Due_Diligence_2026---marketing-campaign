@@ -30,7 +30,7 @@ module.exports = {
     <ul><li>Liste des documents manquants</li><li>Interface et rapports en FR, NL et EN</li></ul>` }),
   'post-6': page({ dark: false, body: `<div class="kicker">Agents &amp; agences immobilières</div>
     <h1>Moins d'heures de relecture, <em>dossier après dossier.</em></h1>
-    <ul><li>1 dossier complet offert aux professionnels pour essayer</li><li>Abonnements dès 59 € / mois (10 dossiers)</li><li>Essai gratuit de 7 jours sur les abonnements</li></ul>`,
+    <ul><li>1 dossier complet offert aux professionnels pour essayer</li><li>Abonnements dès 149 € / mois (10 dossiers, soit 14,90 € par dossier)</li><li>Essai gratuit de 7 jours sur les abonnements</li></ul>`,
     legal: LEGAL + " Essai : carte requise, abonnement débité ensuite sauf annulation avant la fin de l'essai." }),
 
   'story-1': page({ story: true, body: `<div class="kicker">Tu achètes en Belgique ?</div>

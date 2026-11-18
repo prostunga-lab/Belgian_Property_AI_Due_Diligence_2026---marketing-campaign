@@ -21,6 +21,14 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 6. Ne pas répéter un sujet de publication déjà traité dans les 14 derniers jours (voir le journal ci-dessous).
 7. Varier les formats : carrousel pédagogique, chiffre clé, cas pratique, vrai ou faux en 2 stories, question et réponse, offre ou démo.
 
+## Tarifs en vigueur (relus le 18/11/2026 sur /pricing, TVA comprise)
+
+- Particuliers : 1 dossier 39 € ; pack de 3 à 59 € (19,67 €/dossier) ; pack de 5 à 89 € (17,80 €/dossier). Aperçu gratuit, dossiers sans date d'expiration.
+- Pros : Solo 149 €/mois (10 dossiers, 14,90 €/dossier) ; Pro 299 €/mois (25 dossiers, 11,96 €/dossier) ; Agence 749 €/mois (80 dossiers). -5 % au semestre, -10 % à l'année. Essai gratuit de 7 jours, carte requise, 5 dossiers max pendant l'essai.
+- Dossier supplémentaire au-delà du quota : 19 €. 1 dossier offert à l'inscription pro. Offre de bienvenue : -20 %.
+- Anciens tarifs (59/99/249 €/mois, dossier sup. 5 €) : ne plus les utiliser. Ne pas écrire « le pack de 3 = le prix d'un mois d'abonnement » : ce n'est plus vrai.
+- Toujours relire /pricing avant un post qui cite un prix.
+
 ## Rotation des thèmes
 
 | # | Thème | Source sur le site |
