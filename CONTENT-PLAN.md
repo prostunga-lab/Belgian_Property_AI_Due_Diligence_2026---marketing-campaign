@@ -68,7 +68,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-16 | Amiante Flandre (rattrapage du 11/11) | Sol autre parcelle, citerne mazout (rattrapage) ; PEB E/F Flandre (vague 1) |
 | 2026-11-17 | 185 m² contre 240 m² (vague 1) | PEB : vrai ou faux F/G (Q + R), validité 10 ans, 3 régions (rattrapage du 12/11) |
 | 2026-11-18 | Électricité 18 mois (rattrapage du 11/11) | Urbanisme : vrai ou faux véranda (Q + R), zone inondable (rattrapage) ; Moins de 2 min (vague 1) |
-| 2026-11-19 | Comment ça marche (vague 1) | — |
+| 2026-11-19 | Comment ça marche (vague 1) | Documents par région : vrai ou faux (Q + R), attestation de sol 3 noms, documents selon le bien |
 | 2026-11-20 | — | -20 % (vague 1) |
 | 2026-11-23 | — | Ce que l'outil vérifie (vague 1) |
 | 2026-11-24 | 39 €, fais le calcul (vague 1) | — |
