@@ -33,7 +33,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 
 | # | Thème | Source sur le site |
 |---|---|---|
-| 1 | PEB / EPC : label, score, validité, rénovation obligatoire en Flandre | /guides/peb-epc |
+| 1 | PEB / EPC : label, score, validité, rénovation obligatoire en Flandre (E/F → label D dans les **6 ans** depuis déc. 2025, plus 5) | /guides/peb-epc |
 | 2 | Amiante par région | /guides/amiante |
 | 3 | Contrôle électrique, 18 mois, 25 ans | /guides/controle-electrique |
 | 4 | Sol : bodemattest, Bruxelles Environnement, BDES, citerne mazout | /guides/attestation-sol |
@@ -70,7 +70,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-18 | Électricité 18 mois (rattrapage du 11/11) | Urbanisme : vrai ou faux véranda (Q + R), zone inondable (rattrapage) ; Moins de 2 min (vague 1) |
 | 2026-11-19 | Comment ça marche (vague 1) | Documents par région : vrai ou faux (Q + R), attestation de sol 3 noms, documents selon le bien |
 | 2026-11-20 | — | -20 % (vague 1) |
-| 2026-11-23 | — | Ce que l'outil vérifie (vague 1) |
+| 2026-11-23 | PEB : 5 points à vérifier sur le certificat | PEB après le compromis : vrai ou faux (Q 11:00 + R 12:30) ; Flandre E/F : 6 ans pour le label D (15:00) ; Ce que l'outil vérifie (vague 1, 18:00) |
 | 2026-11-24 | 39 €, fais le calcul (vague 1) | — |
 | 2026-11-25 | — | Rapport de démo (vague 1) |
 | 2026-11-26 | 3 régions (vague 1) | — |
@@ -81,3 +81,6 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 Du 11/11 (vers midi) au 13/11, Metricool a refusé toutes les publications (« You have reached your Metricool account limit »). La limite a été levée le 13/11 au soir.
 Contenus manqués reprogrammés : story « Vérifie avant de signer » (13/11 à 23:10, publiée) ; amiante + stories sol et citerne (16/11) ; 4 stories PEB (17/11) ; électricité + 3 stories urbanisme (18/11) ; urbanisme (20/11) ; « Signe l'esprit tranquille » (21/11).
 Pour la routine : en cas d'échec Metricool, vérifier d'abord les statuts ERROR des jours précédents (getScheduledPosts sur les jours passés) et les signaler.
+
+Routine des 19, 20 et 21/11 : déclenchements reçus seulement le 22/11 à 19:13, sans contenu ajouté pour ces jours. Aucun statut ERROR côté BIDD du 19 au 22/11.
+Le 23/11 : à cause de redémarrages du worker, les stories ont été décalées de 08:30/11:30 à 11:00/12:30.
