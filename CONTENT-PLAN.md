@@ -21,7 +21,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 6. Ne pas répéter un sujet de publication déjà traité dans les 14 derniers jours (voir le journal ci-dessous).
 7. Varier les formats : carrousel pédagogique, chiffre clé, cas pratique, vrai ou faux en 2 stories, question et réponse, offre ou démo.
 
-## Tarifs en vigueur (relus le 18/11/2026 sur /pricing, TVA comprise)
+## Tarifs en vigueur (relus le 23/11/2026 sur /pricing, TVA comprise)
 
 - Particuliers : 1 dossier 39 € ; pack de 3 à 59 € (19,67 €/dossier) ; pack de 5 à 89 € (17,80 €/dossier). Aperçu gratuit, dossiers sans date d'expiration.
 - Pros : Solo 149 €/mois (10 dossiers, 14,90 €/dossier) ; Pro 299 €/mois (25 dossiers, 11,96 €/dossier) ; Agence 749 €/mois (80 dossiers). -5 % au semestre, -10 % à l'année. Essai gratuit de 7 jours, carte requise, 5 dossiers max pendant l'essai.
@@ -71,7 +71,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-19 | Comment ça marche (vague 1) | Documents par région : vrai ou faux (Q + R), attestation de sol 3 noms, documents selon le bien |
 | 2026-11-20 | — | -20 % (vague 1) |
 | 2026-11-23 | PEB : 5 points à vérifier sur le certificat | PEB après le compromis : vrai ou faux (Q 11:00 + R 12:30) ; Flandre E/F : 6 ans pour le label D (15:00) ; Ce que l'outil vérifie (vague 1, 18:00) |
-| 2026-11-24 | 39 €, fais le calcul (vague 1) | — |
+| 2026-11-24 | 39 €, fais le calcul (vague 1) | Vrai ou faux : un dossier expire (Q 08:30 + R 11:30) ; Packs 39 / 59 / 89 € (15:00) ; Essai 7 jours pros (18:00) |
 | 2026-11-25 | — | Rapport de démo (vague 1) |
 | 2026-11-26 | 3 régions (vague 1) | — |
 | 2026-12-01 | Agents et agences (vague 1) | — |
