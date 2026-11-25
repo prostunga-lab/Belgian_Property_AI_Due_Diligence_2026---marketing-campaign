@@ -72,9 +72,13 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-20 | — | -20 % (vague 1) |
 | 2026-11-23 | PEB : 5 points à vérifier sur le certificat | PEB après le compromis : vrai ou faux (Q 11:00 + R 12:30) ; Flandre E/F : 6 ans pour le label D (15:00) ; Ce que l'outil vérifie (vague 1, 18:00) |
 | 2026-11-24 | 39 €, fais le calcul (vague 1) | Vrai ou faux : un dossier expire (Q 08:30 + R 11:30) ; Packs 39 / 59 / 89 € (15:00) ; Essai 7 jours pros (18:00) |
-| 2026-11-25 | — | Rapport de démo (vague 1) |
-| 2026-11-26 | 3 régions (vague 1) | — |
+| 2026-11-25 | — | Rapport de démo (vague 1). Série sol préparée mais non programmée (session interrompue), reportée au 26/11 |
+| 2026-11-26 | 3 régions (vague 1) | Sol : vrai ou faux BDES Wallonie (Q 08:30 + R 11:30) ; 4 points contrôlés sur l'attestation de sol (15:00) |
 | 2026-12-01 | Agents et agences (vague 1) | — |
+
+## En réserve
+
+- `visuels/2026-11-25/post-sol-regions.jpg` : post « L'état du sol, un document par région », prêt mais pas encore programmé (à placer à partir du 27/11, sans répéter le post « 3 régions » du 26/11 le même jour).
 
 ## Incident et rattrapage
 
