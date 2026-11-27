@@ -27,6 +27,8 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 - Pros : Solo 149 €/mois (10 dossiers, 14,90 €/dossier) ; Pro 299 €/mois (25 dossiers, 11,96 €/dossier) ; Agence 749 €/mois (80 dossiers). -5 % au semestre, -10 % à l'année. Essai gratuit de 7 jours, carte requise, 5 dossiers max pendant l'essai.
 - Dossier supplémentaire au-delà du quota : 19 €. 1 dossier offert à l'inscription pro. Offre de bienvenue : -20 %.
 - Anciens tarifs (59/99/249 €/mois, dossier sup. 5 €) : ne plus les utiliser. Ne pas écrire « le pack de 3 = le prix d'un mois d'abonnement » : ce n'est plus vrai.
+- Black Friday (relu le 27/11 sur l'accueil et /pricing) : -30 % sur les dossiers à l'unité et sur les 3 premiers mois d'abonnement, jusqu'au 01/12 inclus. Ne pas calculer de prix remisés. Ne plus en parler après le 01/12.
+- L'offre de bienvenue -20 % n'apparaît plus sur /pricing au 27/11 : ne plus la citer tant qu'elle n'est pas de retour sur le site.
 - Toujours relire /pricing avant un post qui cite un prix.
 
 ## Rotation des thèmes
@@ -75,6 +77,7 @@ Créneaux (meilleures heures Metricool) : publications à 09:30, 10:00 ou 12:30 
 | 2026-11-25 | — | Rapport de démo (vague 1). Série sol préparée mais non programmée (session interrompue), reportée au 26/11 |
 | 2026-11-26 | 3 régions (vague 1) | Sol : vrai ou faux BDES Wallonie (Q 08:30 + R 11:30) ; 4 points contrôlés sur l'attestation de sol (15:00) |
 | 2026-11-27 | L'état du sol, un document par région (10:00) | Électricité : vrai ou faux RGIE fédéral (Q 11:00 + R 12:30) ; rapport conforme valable 25 ans (15:00) |
+| 2026-11-28 | Black Friday -30 % (10:00) ; Rapport de démo Gent : 5 constats élevés (18:30) | Black Friday -30 % (11:30) ; Démo : budget 18,1–54,9 k€ (15:00) ; Démo : échéance label D 12/03/2032 (20:30) |
 | 2026-12-01 | Agents et agences (vague 1) | — |
 
 ## En réserve
